@@ -9,3 +9,7 @@ the basic idea of this projet is to generate a read me from simpy using the cons
 
 
 
+
+
+https://user-images.githubusercontent.com/106626454/203193670-883405e1-1434-4f93-a7fe-e7e7c390fbaf.mp4
+
