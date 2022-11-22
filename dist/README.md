@@ -4,7 +4,7 @@
 ## Description
 A Node.js application that will help you generate a professional README file.
             
-View the deployed page at [README Generator](https://github.com/valiantcreative33/readme-generator).
+View the deployed page at 
 ## Contents
 * [Installation](#installation)
 * [Usage](#usage)
